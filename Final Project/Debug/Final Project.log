@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Final Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Final Project.cpp
+  Final Project.vcxproj -> C:\Users\HP\source\repos\Final Project\Debug\Get Out Game.exe
